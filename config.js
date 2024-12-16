@@ -1,13 +1,13 @@
 global.owner = [
-  "2347043759577",
+  "254768270132",
   ""
 ]
-global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
-global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channeljid = "120363315231436175@newsletter"
+global.anitav4 = "BLVCK_SAMURAI"
+global.ownername = "Jayson Mumo"
+global.packname = "BLVCK_SAMURAI"
+global.author = "11519849H"
+global.channelname = "11519849H"
+global.channeljid = "rathazealer@gmail.com"
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;   // Set to true to automatically read statuses
